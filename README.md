@@ -1,6 +1,6 @@
-# docker-sumokoin
+# docker-dero
 
-Run Sumokoin daemon on a Docker container...
+Run DERO daemon on a Docker container...
 
 ### How to build
 
